@@ -1,6 +1,7 @@
 # StrateosAssignment
 
 # Moving containers with a robotic arm
+Approach to the problem is discussed [here](#approach)
 
 
 
