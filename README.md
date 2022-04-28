@@ -68,7 +68,7 @@ Let us consider the below example for the entire approach discussion*
 
 &ensp;&ensp;2. C should be at position 2
 
-&ensp;&ensp;3. So swap C at index 1 and underscore at index 1 (1 , 2)
+&ensp;&ensp;3. So swap C at index 1 and underscore at index 2 (1 , 2)
 Now sequence is B_CA
 
 
